@@ -23,4 +23,4 @@ Ce projet est protégé sous la licence MIT. Voir le fichier LICENSE pour plus d
 
 ## Contact
 
-Pour toute question ou commentaire, n'hésitez pas à ouvrir une issue sur ce répertoire, ou à me contacter via [GitHub Discussions].
+Pour toute question ou commentaire, n'hésitez pas à ouvrir une issue sur ce répertoire, ou à me contacter via les fils de discussions GitHub.
